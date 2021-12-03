@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SBER</string>
+    <string name="summa">summa</string>
+    <string name="button_2_text_">Назад</string>
+    <string name="tv_8_text_">Сумма при открытии счета:</string>
+    <string name="tv_9_text_">На срок:</string>
+    <string name="tv_10_text_">Ежемесячное пополнение:</string>
+    <string name="tv_14_text_">Результат:</string>
+    <string name="tv_5_text_">Ежемесячное пополнение:</string>
+    <string name="tv_1_text">Сумма при открытии счета:</string>
+    <string name="tv_2_text_">Сумма счета 1000000</string>
+    <string name="tv_3_text_">На срок:</string>
+    <string name="tv_4_text_">Срок счета 50 лет</string>
+    <string name="tv_6_text_">сумма пополненя 250000</string>
+    <string name="btn_text_">Рассчитать</string>
+</resources>
